@@ -9,10 +9,6 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!");
             Console.WriteLine("oooo");
             Console.WriteLine("kkkk");
-            for(int i = 0; i <= 10; i++)
-            {
-                Console.WriteLine("O numero é " + i );
-            }
         }
     }
 }
