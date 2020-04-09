@@ -6,8 +6,10 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(  "Teste do git hub");
-            Console.WriteLine("Desemprego");
+            for(int i = 0; i <= 20; i++)
+            {
+                Console.WriteLine(i);
+            }
         }
     }
 }
