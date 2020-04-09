@@ -6,9 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("oooo");
-            Console.WriteLine("kkkk");
+            Console.WriteLine(  "Teste do git hub");
         }
     }
 }
